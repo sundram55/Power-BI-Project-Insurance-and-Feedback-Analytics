@@ -4,7 +4,7 @@ This repository provides a comprehensive analysis and visualization of customer 
 # Contents of the Repository
 ## Datasets:
 
-Feedback.csv: Contains customer feedback with sentiment scores and categorized suggestions for improvement.
+### Feedback.csv: Contains customer feedback with sentiment scores and categorized suggestions for improvement. <br />
 Columns:
 
 Customer Name: Name of the customer providing feedback.
