@@ -1,0 +1,98 @@
+Customer Name,Feedback,Score sentiment,Good/Improvement
+Aaron Collins,"Website was down when I needed to access my account, inconvenient.",0.013586253,Needs Improvement
+Jeremy Ross,Customer service was not very knowledgeable.,0.028694421,Needs Improvement
+Allison Sanders,Had trouble accessing my account online.,0.032562882,Needs Improvement
+Grace Perry,"Customer service was not helpful, need better training.",0.035949677,Needs Improvement
+William Wright,"Customer service was not helpful, need better training.",0.035949677,Needs Improvement
+Jonathan Wood,Had to wait too long for claim approval.,0.036698639,Needs Improvement
+Olivia Coleman,"Had to follow up multiple times for claim status, frustrating.",0.036823481,Needs Improvement
+Matthew Young,"Had to follow up multiple times for claim status, frustrating.",0.036823481,Needs Improvement
+Tyler Collins,"Policy rates increased without notice, not happy.",0.050767511,Needs Improvement
+Amanda Scott,"Policy rates increased without notice, not happy.",0.050767511,Needs Improvement
+Anthony Campbell,Had trouble understanding the coverage details.,0.054513872,Needs Improvement
+Stephen Long,Customer service was rude and unhelpful.,0.057781935,Needs Improvement
+David Wilson,"Policy options are confusing, need better explanations.",0.063164592,Needs Improvement
+Kaitlyn Coleman,"Policy options are confusing, need better explanations.",0.063164592,Needs Improvement
+Travis Kim,"Claims process was a hassle, took too long to get reimbursed.",0.063866287,Needs Improvement
+Maria Hernandez,"Claims process was a hassle, took too long to get reimbursed.",0.063866287,Needs Improvement
+Maria Phillips,"Unclear policy terms, need more transparency.",0.067142874,Needs Improvement
+Brian Walker,"Unclear policy terms, need more transparency.",0.067142874,Needs Improvement
+Samuel Cook,"Customer service was not very helpful, disappointing.",0.072239041,Needs Improvement
+Raymond Howard,"Website could be more intuitive, had trouble finding information.",0.07287389,Needs Improvement
+Stephanie Adams,"Website could be more intuitive, had trouble finding information.",0.07287389,Needs Improvement
+Victoria Morris,Took too long to receive my policy documents.,0.091356128,Needs Improvement
+Christopher Hill,"Had a minor issue with billing, but it was resolved.",0.097141951,Needs Improvement
+Jennifer Cox,"Had a minor issue with billing, but it was resolved.",0.097141951,Needs Improvement
+Tammy Rogers,Took too long to get a response to my inquiry.,0.098793089,Needs Improvement
+Rachel Nelson,Took too long to get a response to my inquiry.,0.098793089,Needs Improvement
+Eric Turner,"Had an issue with auto-renewal, but it was fixed promptly.",0.174353629,Needs Improvement
+Anna Bennett,"Policy rates are a bit high, but good coverage.",0.177010834,Needs Improvement
+Sarah Davis,Fast and efficient claims process.,0.181210935,Needs Improvement
+Dennis Patterson,Fast and efficient claims process.,0.181210935,Needs Improvement
+Justin Carter,Very satisfied with the claim settlement process.,0.200407803,Needs Improvement
+Marissa Howard,"Had an issue with claim processing, but it was resolved quickly.",0.20561564,Needs Improvement
+Jane Doe,"Had an issue with claim processing, but it was resolved quickly.",0.20561564,Needs Improvement
+Edward Rivera,"Had an issue with my claim, but it was resolved satisfactorily.",0.209450841,Needs Improvement
+Bryan Torres,"Had an issue with billing, but it was resolved quickly.",0.216095626,Needs Improvement
+Frank Henderson,"Long wait times for customer service, need improvement.",0.5,Needs Improvement
+Laura Foster,"Long wait times on the phone, need improvement.",0.5,Needs Improvement
+Robert Anderson,"Long wait times on the phone, need improvement.",0.5,Needs Improvement
+Ryan Perez,Policy documents are too lengthy and complex.,0.5,Needs Improvement
+Teresa Murphy,"Claims process was a bit confusing, but overall good service.",0.756327152,Good
+Heather Parker,Very happy with the overall service and coverage.,0.773168087,Good
+Matthew Hayes,Very satisfied with the coverage offered.,0.773787558,Good
+Jessica Thomas,Very satisfied with the coverage offered.,0.773787558,Good
+Katherine Reed,"Policy options are good, but need more customization.",0.806474447,Excellent
+Justin Lee,Smooth and easy renewal process.,0.816110432,Excellent
+Megan Lopez,Smooth and easy renewal process.,0.816110432,Excellent
+Melissa Diaz,"Excellent coverage options, very pleased with my policy.",0.823568344,Excellent
+Laura Martinez,"Great value for money, highly recommend.",0.825138807,Excellent
+Mark Simmons,"Great value for money, highly recommend.",0.825138807,Excellent
+Timothy Bell,Very satisfied with the ease of managing my policy online.,0.880755901,Excellent
+Joshua Green,"Great coverage options, very happy with my choice.",0.888259649,Excellent
+Amanda Bailey,"Great coverage options, very happy with my choice.",0.888259649,Excellent
+Christine Morgan,"Premiums are a bit high, but good coverage options.",0.888986349,Excellent
+Linda Robinson,"Prices are competitive, but service can be improved.",0.889152646,Excellent
+Steven Rivera,"Prices are competitive, but service can be improved.",0.889152646,Excellent
+Zachary Barnes,Very satisfied with the overall service.,0.89992559,Excellent
+Bradley Brooks,"Claims process was very efficient, happy with the outcome.",0.915040672,Excellent
+Melissa Patterson,"Excellent mobile app, very user-friendly.",0.920371175,Excellent
+Kevin Clark,"Excellent mobile app, very user-friendly.",0.920371175,Excellent
+Benjamin Rogers,"Smooth claim process, very pleased with the outcome.",0.92859292,Excellent
+Adam Foster,Had a great experience with the claims department.,0.934584141,Excellent
+Christian Kelly,"Easy to navigate website, found what I needed quickly.",0.936073661,Excellent
+Susan Watson,"Easy to navigate website, found what I needed quickly.",0.936073661,Excellent
+Daniel Lee,"Easy to navigate website, found what I needed quickly.",0.936073661,Excellent
+Hannah Reed,"Great policy options, very happy with my choice.",0.941565216,Excellent
+Nicole Mitchell,"Found a better rate elsewhere, but service was good here.",0.943355918,Excellent
+John Smith,"Excellent service, very satisfied with my policy.",0.944471061,Excellent
+Brittany Phillips,"Convenient payment options, very pleased.",0.944488168,Excellent
+Lauren Edwards,"Policy premiums are reasonable, satisfied.",0.952809572,Excellent
+James Turner,"Had a great experience, would recommend to others.",0.954748452,Excellent
+Angela Lewis,"Had a great experience, would recommend to others.",0.954748452,Excellent
+Patrick Richardson,Policy renewal process was smooth and hassle-free.,0.958366871,Excellent
+Michael Brown,"Premiums are a bit high, but overall a good experience.",0.960072994,Excellent
+Victoria Griffin,"Premiums are a bit high, but overall a good experience.",0.960072994,Excellent
+Jason Evans,Claims process was straightforward and quick.,0.961187601,Excellent
+Sandra Hall,"Very quick response time, satisfied with the service.",0.964030981,Excellent
+Charles Russell,"Very quick response time, satisfied with the service.",0.964030981,Excellent
+Amy Rivera,"Found a better policy with another company, but service here was good.",0.96409142,Excellent
+Kelly Stewart,Great experience with the customer service team.,0.971267223,Excellent
+Kimberly King,Impressed with the range of policies available.,0.97139895,Excellent
+Zachary Butler,Impressed with the range of policies available.,0.97139895,Excellent
+Gregory Sanchez,"Found the perfect policy for my needs, very satisfied.",0.97203517,Excellent
+Rachel Washington,"Found the perfect policy for my needs, very satisfied.",0.97203517,Excellent
+Michelle Roberts,"Excellent customer support, very responsive.",0.975151718,Excellent
+Mark Price,"Excellent customer support, very responsive.",0.975151718,Excellent
+Tiffany Carter,"Professional and courteous staff, very satisfied.",0.977370679,Excellent
+Andrew Baker,"Professional and courteous staff, very satisfied.",0.977370679,Excellent
+James Garcia,"Friendly and knowledgeable staff, very pleased.",0.977370679,Excellent
+Julia Price,"Friendly and knowledgeable staff, very pleased.",0.977370679,Excellent
+Nathan Bailey,Customer service response time could be better.,0.979221344,Excellent
+Deborah Cox,"Friendly and helpful customer service, very satisfied.",0.984724939,Excellent
+Sharon Bryant,"Premiums are affordable, very satisfied.",0.985898376,Excellent
+Rebecca Hughes,Policy terms are clear and easy to understand.,0.987682343,Excellent
+Dorothy Peterson,"Easy to file a claim, very pleased with the service.",0.98824513,Excellent
+Samantha Cooper,"Easy to understand policy terms, very happy.",0.991816282,Excellent
+Paul Russell,"Very helpful customer service, answered all my questions.",0.998387218,Excellent
+Emily Johnson,"Very helpful customer service, answered all my questions.",0.998387218,Excellent
