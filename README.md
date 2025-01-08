@@ -39,4 +39,4 @@ Feedback.csv: Raw customer feedback data.
 Insurance dataset.csv: Insurance policies and claims data.
 InsuranceData.pbix: Power BI report file.
 
-![Dashboard image](https://app.powerbi.com/reportEmbed?reportId=4c901b86-bd20-412d-8d51-a58a60f76a24&autoAuth=true&ctid=818ad319-f6f7-458c-a487-b957bfa68907&disablecdnExpiration=1736379131)
+![Dashboard image](https://github.com/sundram55/Power-BI-Projects/blob/main/Insurange%20dashboard%20img.jpg)
