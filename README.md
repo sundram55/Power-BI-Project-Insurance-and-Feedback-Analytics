@@ -7,20 +7,21 @@ This repository provides a comprehensive analysis and visualization of customer 
 ### Feedback.csv: Contains customer feedback with sentiment scores and categorized suggestions for improvement. <br />
 Columns:
 
-Customer Name: Name of the customer providing feedback.
-Feedback: Textual feedback from the customer.
-Score sentiment: Sentiment score derived from the feedback (numeric).
-Good/Improvement: Categorization of feedback as "Good" or "Needs Improvement".
-Insurance dataset.csv: Provides details of insurance policies, customer demographics, premiums, claims, and statuses. Columns:
+Customer Name: Name of the customer providing feedback. <br />
+Feedback: Textual feedback from the customer. <br />
+Score sentiment: Sentiment score derived from the feedback (numeric). <br />
+Good/Improvement: Categorization of feedback as "Good" or "Needs Improvement". <br />
+### Insurance dataset.csv: Provides details of insurance policies, customer demographics, premiums, claims, and statuses. 
+Columns:
 
-PolicyNumber: Unique identifier for each insurance policy.
-CustomerID: Identifier for the customer.
-Gender, Age, Age Group: Demographics of the policyholders.
-PolicyType: Type of insurance policy (e.g., Travel, Health, etc.).
-PolicyStartDate, PolicyEndDate: Dates for the policy's coverage.
-PremiumAmount, CoverageAmount: Financial metrics for the policy.
-ClaimNumber, ClaimDate, ClaimAmount, ClaimStatus: Details of insurance claims made.
-Active/Inactive: Status of the policy.
+PolicyNumber: Unique identifier for each insurance policy. <br />
+CustomerID: Identifier for the customer. <br />
+Gender, Age, Age Group: Demographics of the policyholders. <br />
+PolicyType: Type of insurance policy (e.g., Travel, Health, etc.). <br />
+PolicyStartDate, PolicyEndDate: Dates for the policy's coverage. <br />
+PremiumAmount, CoverageAmount: Financial metrics for the policy. <br />
+ClaimNumber, ClaimDate, ClaimAmount, ClaimStatus: Details of insurance claims made. <br />
+Active/Inactive: Status of the policy. <br />
 Power BI Dashboard:
 
 InsuranceData.pbix: A fully interactive Power BI file visualizing insights from the datasets, including:
